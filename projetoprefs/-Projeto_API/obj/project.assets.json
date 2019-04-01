@@ -12437,11 +12437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\camil\\Desktop\\projetoprefs\\-Projeto_API\\-Projeto_API.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\Desktop\\Projeto\\Projeto-Prefs\\projetoprefs\\-Projeto_API\\-Projeto_API.csproj",
       "projectName": "-Projeto_API",
-      "projectPath": "c:\\Users\\camil\\Desktop\\projetoprefs\\-Projeto_API\\-Projeto_API.csproj",
+      "projectPath": "C:\\Users\\camil\\Desktop\\Projeto\\Projeto-Prefs\\projetoprefs\\-Projeto_API\\-Projeto_API.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\camil\\Desktop\\projetoprefs\\-Projeto_API\\obj\\",
+      "outputPath": "C:\\Users\\camil\\Desktop\\Projeto\\Projeto-Prefs\\projetoprefs\\-Projeto_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
