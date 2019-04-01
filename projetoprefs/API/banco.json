@@ -1,0 +1,29 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Camila Nobre",
+      "idade": 24,
+      "dataNascimento": "2",
+      "funcao": "Estagiário nível 3"
+    },
+    {
+      "id": 2,
+      "nome": "Gustavo Lelis",
+      "idade": 22,
+      "dataNascimento": "26/06/1996",
+      "funcao": "Estagiário nível 2"
+    },
+    {
+      "nome": "Livia",
+      "id": 3,
+      "idade": 27,
+      "dataNascimento": "14/09/1991",
+      "funcao": "Estagiário nível 3"
+    },
+    {
+      "nome": "Lia",
+      "id": 4
+    }
+  ]
+}
