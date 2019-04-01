@@ -1,0 +1,14 @@
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\bin\Debug\netcoreapp2.2\-Projeto_API.deps.json
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\bin\Debug\netcoreapp2.2\-Projeto_API.runtimeconfig.json
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\bin\Debug\netcoreapp2.2\-Projeto_API.runtimeconfig.dev.json
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\bin\Debug\netcoreapp2.2\-Projeto_API.dll
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\bin\Debug\netcoreapp2.2\-Projeto_API.pdb
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.csprojAssemblyReference.cache
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.csproj.CoreCompileInputs.cache
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.RazorAssemblyInfo.cache
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.RazorAssemblyInfo.cs
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.AssemblyInfoInputs.cache
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.AssemblyInfo.cs
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.RazorTargetAssemblyInfo.cache
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.dll
+C:\Users\camil\Desktop\projetoprefs\-Projeto_API\obj\Debug\netcoreapp2.2\-Projeto_API.pdb
