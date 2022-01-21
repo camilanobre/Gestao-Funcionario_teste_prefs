@@ -1,5 +1,4 @@
-Projeto-Prefs
-A pasta -Projeto_API contem os arquivos de back-end, desenvolvidos em Dotnet
-A pasta projeto contem os arquivos de front-end, desenvolvidos em Vue.js
+Esse projeto é sobre uma gestão de funcionários de uma empresa.
+A pasta back-end contem os arquivos desenvolvidos em C#.
+A pasta front-end contem os arquivos desenvolvidos em Vue.js 
 O banco utilizado foi o SQLite
-
